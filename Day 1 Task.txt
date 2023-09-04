@@ -1,0 +1,29 @@
+Day 1 Task
+
+
+1. Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP 1.1:
+It is works in text format
+It compresses data by itself
+It was created in 1997
+It uses request resource Inlining  for use getting multiple pages
+There is head for line blocking that blocks all the requests until it does not get all the resources
+
+HTTP 2:
+It is works in Binary Number Values 
+It uses HPACK for data compression
+It was created in 2015
+It use to push frame by server that collecting all multiple pages
+It is allows multiplexing one TCP connection is required for multiple requests
+
+
+2.  Write a blog about objects and its internal representation in Javascript
+
+	      Objects are most important in data types. Objects are different than primitive data types      (i.e string,number,boolean, etc). Primitive data types contain one value but objects can hold many values in form of key: value pair. These keys can be variables or functions and are called properties and methods in context of objects.
+
+
+3. Codekata Practice ….
+		
+
+
